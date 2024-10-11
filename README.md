@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I've given a [TED Talk](https://www.youtube.com/watch?v=AjmtijoBNzM) on how to make better games. Now I have a podcast.
+
 <!--
 **Taperofpaper/Taperofpaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
