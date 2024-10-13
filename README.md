@@ -15,6 +15,6 @@
 
 I also like taping paper.
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aidan-cu/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/devpost.png" width="3.5%"/>](https://devpost.com/aidancullen200)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aidan-cu/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/devpost.png" width="3.5%"/>](https://devpost.com/taperofpaper)
 
 
