@@ -1,3 +1,5 @@
+<p align="center"><img width="80%" src="blue-sky.jpg"/></p>
+
 ## Hi, I'm Aidan👋        
 
 <p align="center">
