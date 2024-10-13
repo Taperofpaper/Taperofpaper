@@ -13,4 +13,6 @@
 
 I also like taping paper.
 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>]("https://www.linkedin.com/in/aidan-cu/") &nbsp; <a href="mailto:aidan.cullen@mail.utoronto.ca"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
 
