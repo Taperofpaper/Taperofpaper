@@ -10,7 +10,7 @@
 
 ## What I'm about.
 - ⚡️I enjoy [building with AI](https://devpost.com/software/infinite-office-hours) (GenAI Genesis) @ hackathons. And sometimes [we win!](https://devpost.com/software/homegrown-htw4ub) (Hack the North 2022)
-- 🎮I gave a [TED Talk](https://www.ted.com/talks/aiden_cullen_the_originality_trap) on how to make games better by thinking about originality differently.
+- 🎮I gave a [TEDx Talk](https://www.ted.com/talks/aiden_cullen_the_originality_trap) on how to make games better by thinking about originality differently.
 - 🎙️Now I have a [podcast](https://open.spotify.com/show/7wPp15zgIXBl6qDGOMas4o?si=118fe3c221be47cd) where I interview high-performing students.
 
 I also like taping paper.
