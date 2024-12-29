@@ -15,6 +15,6 @@
 
 I also like taping paper.
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aidan-cu/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/devpost.png" width="3.5%"/>](https://devpost.com/taperofpaper)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aidan-cu/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/devpost.png" width="3.5%"/>](https://devpost.com/taperofpaper) &nbsp; [<img src="https://img.icons8.com/color/48/000000/ted.png" width="3.5%"/>](https://www.ted.com/talks/aiden_cullen_the_originality_trap) &nbsp; [<img src="https://img.icons8.com/color/48/000000/roblox.png" width="3.5%"/>](https://www.roblox.com/games/5263552424/Bagel-Bakery-Simulator-CODES-IN-DESC)
 
 
